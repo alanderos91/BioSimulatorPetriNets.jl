@@ -3,6 +3,11 @@ uuid = "db89e596-fd61-4473-bf06-787978f56a5a"
 authors = ["Alfonso Landeros"]
 version = "0.1.0"
 
+[deps]
+BioSimulator = "6aabf0a6-ec0e-58c4-b8bf-f645d5ac4ee8"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+TikzGraphs = "b4f28e30-c73f-5eaf-a395-8a9db949a742"
+
 [compat]
 julia = "1"
 
